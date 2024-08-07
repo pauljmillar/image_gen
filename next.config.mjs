@@ -14,6 +14,7 @@ const config = {
     domains: [
       "oaidalleapiprodscus.blob.core.windows.net",
       "icon-generator-course.s3.amazonaws.com",
+      "fordalleimages.s3.amazonaws.com",
     ],
   },
   /**
